@@ -9,5 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Logo.unity
     guid: 4379c958f5e200e46955a5f27f5200cc
   - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 1d5bb0cae7db33e4a8fcf1b23fb8d21e
+  - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: 70f796981fbb5c0468849091a50f8317
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 5d5bc0f407a2bae488a85f6b168f6eee
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: e4bdbfe2cb9fc9144b45a2a438bc2b89
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: 6ecf4d15e3a9ef44eaa073b8bb5aa403
